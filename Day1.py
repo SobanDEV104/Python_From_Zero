@@ -1,0 +1,8 @@
+print("Hello world")
+name= input("what is your name?\n")
+print("Welcome?",name)
+age= input("what is your age?")
+print ("you are",age,"years old")
+Numbber1= input("enter your first mumber for addition")
+Numbber2= input("enter your second number for addition")
+print("SUM=",Numbber1 + Numbber2)

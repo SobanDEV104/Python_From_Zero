@@ -1,0 +1,5 @@
+# Now culculate the area of Circle 
+import math
+Radius= float(input("what is the radius of your circle?"))
+Area= math.pi * Radius ** 2
+print ("area of circle is =",Area)
