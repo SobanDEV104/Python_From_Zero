@@ -104,71 +104,96 @@ This repository documents my progress as I learn Python from scratch. My goal is
 
 ---
 
-# 📂 Repository Structure
+Day 4 - Student Management System
 
-```text
-Python-From-Zero/
+Author: Muhammad Soban
+Date: 29-07-2026
+
+📌 Project Overview
+
+Today I built a simple Student Management System in Python using the concepts I learned during Day 4.
+
+✅ Concepts Practiced
+
+- Variables
+- User Input ("input()")
+- Data Types ("int", "str")
+- "if", "elif", "else"
+- "while" Loop
+- Menu-Driven Program
+- Basic Data Storage
+
+🚀 Features
+
+- Add Student
+- Show Student Details
+- Calculate Student Grade
+- Display Name, Roll Number, Marks, and Grade
+- Exit the Program
+
+🛠️ What I Learned
+
+- How to create a menu-driven application.
+- How to use loops to keep a program running until the user exits.
+- How to take input from users and display formatted output.
+- How to use conditional statements to calculate grades.
+
+📚 Skills Improved
+
+- Problem Solving
+- Python Programming Basics
+- Program Logic
+- User Interaction
+
+Status
+
+✅ Day 4 Completed Successfully.📂 Repository Structure
+
+Python-Learning-Journey/
 │
 ├── README.md
 │
-├── Day01/
+├── Day-01/
 │   ├── hello_world.py
-│   ├── basic_calculator.py
-│   └── user_information.py
+│   ├── variables.py
+│   ├── data_types.py
+│   └── notes.md
 │
-├── Day02/
-│   ├── rectangle_area.py
-│   ├── circle_area.py
-│   ├── average_of_five.py
-│   ├── temperature_converter.py
-│   ├── swap_two_numbers.py
-│   └── student_grade_calculator.py
+├── Day-02/
+│   ├── operators.py
+│   ├── user_input.py
+│   ├── type_casting.py
+│   └── notes.md
 │
-├── Day03/
-│   ├── voting_eligibility.py
-│   ├── weekend_checker.py
-│   ├── login_system.py
-│   ├── atm_login.py
-│   ├── university_admission.py
-│   └── simple_banking_system.py
-```
+├── Day-03/
+│   ├── if_else.py
+│   ├── nested_if.py
+│   ├── grade_calculator.py
+│   ├── mini_project.py
+│   └── notes.md
+│
+├── Day-04/
+│   ├── while_loop.py
+│   ├── menu_driven_program.py
+│   ├── student_management.py
+│   └── notes.md
+│
+└── Assets/
+    ├── screenshots/
+    │   ├── day1.png
+    │   ├── day2.png
+    │   ├── day3.png
+    │   └── day4.png
+    └── images/
+        └── python-logo.png
 
----
+📌 Repository Progress
 
-# 🚀 Upcoming Topics
+- ✅ Day 1 – Python Basics (Variables & Data Types)
+- ✅ Day 2 – User Input, Type Casting & Operators
+- ✅ Day 3 – Conditional Statements & Mini Project
+- ✅ Day 4 – While Loops & Student Management System
+- 🔜 Day 5 – Lists and Multiple Student Records
 
-- While Loops
-- For Loops
-- Break
-- Continue
-- Lists
-- Functions
-- Tuples
-- Dictionaries
-- File Handling
-- Object-Oriented Programming (OOP)
-- APIs
-- Automation
-- SQL
-- Machine Learning
-- Artificial Intelligence
 
----
 
-# 🎯 Long-Term Goal
-
-To become a professional Python Developer capable of building automation tools, AI applications, and software solutions for clients worldwide through freelancing and remote work.
-
----
-
-# 📈 Repository Status
-
-🚀 This repository is updated daily as I continue learning Python and building real-world projects.
-
----
-
-# ⭐ Thank You
-
-Thank you for visiting my repository.
-
-If you like my learning journey, feel free to explore my projects and follow my progress.
